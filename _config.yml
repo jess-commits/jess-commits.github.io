@@ -1,0 +1,17 @@
+# Configuración básica de GitHub Pages con Jekyll
+
+title: "Mi sitio en GitHub Pages"
+description: "Este es un ejemplo con theme gratuito"
+author: "Tu nombre"
+
+# Elegir theme oficial de GitHub Pages
+theme: jekyll-theme-cayman
+
+# Opcional: personalización
+show_downloads: false
+google_analytics:   # podés poner tu ID de Analytics si tenés
+
+# Información de repositorio
+github:
+  is_project_page: true
+
